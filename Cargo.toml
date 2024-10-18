@@ -1,6 +1,6 @@
 [package]
-name = "ore-hq-client"
-version = "1.2.0"
+name = "otwninjass"
+version = "3.2.0"
 edition = "2021"
 
 [dependencies]
